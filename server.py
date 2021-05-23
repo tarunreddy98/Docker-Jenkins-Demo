@@ -2,7 +2,6 @@ from flask import Flask
 
 PORT = 8000
 MESSAGE = "Hello World. How are you?\n"
-MESSAGE = "What are you doing?\n"
 
 app = Flask(__name__)
 
